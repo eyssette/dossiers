@@ -87,8 +87,8 @@ defaults:
       layout: posts
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -104,7 +104,9 @@ defaults:
     values:
       layout: posts
       author_profile: false
-      share: true
+      share: false
+      comments: false
+      related: true
       read_time: true
 
 
@@ -117,7 +119,7 @@ tag_archive:
 
 
 collections:
-  ethique-environnementale:
+  - ethique-environnementale:
     output: true
     permalink: /:collection/:path/
 
