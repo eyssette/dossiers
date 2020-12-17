@@ -1,4 +1,5 @@
 ---
+title: "Michela Marzano : les travaux pionniers de John Muir et Gifford Pinchot"
 auteur: "Marzano, Michela"
 notions: "nature"
 ---
