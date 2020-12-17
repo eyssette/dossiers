@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Cédric Eyssette"
-  avatar : "https://eyssette.github.io/blog/assets/img/sample/avatar.jpg"
+  avatar : "/assets/images/avatar.jpg"
   bio    : "Une sélection de textes classés par thématiques"
   links:
     - label: "Website"
