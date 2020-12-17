@@ -97,6 +97,16 @@ defaults:
     values:
       layout: posts
       author_profile: true
+  # _ethique-environnementale
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: posts
+      author_profile: false
+      share: true
+      read_time: true
+
 
 category_archive:
   type: liquid
