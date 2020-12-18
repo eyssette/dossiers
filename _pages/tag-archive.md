@@ -7,13 +7,22 @@ author_profile: true
 
 {% assign alldocs = site.documents %}	
 
-{% alldocs %}
+{% assign alldocsunique = '' | split: '' %}
 
-{% assign grouptag =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
+{% for item in alldocs %}
+    {% assign array_item = '' | split: '' %}
+    {% assign array_item = array_item | push: item %}
+    
+	{% unless alldocsunique contains array_item %}
+        {% assign alldocsunique = alldocsunique | push: array_item %}
+    {% endunless %}
+{% endfor %}
+
+{% assign grouptag =  alldocsunique | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 {%- for tag in grouptag -%}
 <h2>{{- tag.name -}} : {{tag.size}}</h2>
 <ul>
-	{%- for document in alldocs -%}
+	{%- for document in alldocsunique -%}
     	{% if document.tags contains tag.name %}
         	 <li><a href="https://eyssette.github.io/dossiers{{- document.url -}}">{{- document.title -}}</a></li>
 		 {% endif %}
