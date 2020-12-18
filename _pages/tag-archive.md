@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "Textes classés par notions"
 permalink: /tags/
 layout: tags
 author_profile: true
