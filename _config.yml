@@ -23,6 +23,8 @@ twitter_username: Cedric_Eyssette
 github_username: eyssette
 minimal_mistakes_skin: dark
 search: true
+locale: fr
+
 
 # Build settings
 markdown: kramdown
