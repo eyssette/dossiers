@@ -5,7 +5,7 @@ layout: tags
 author_profile: true
 ---
 
-{% assign alldocs = site.documents | group_by: 'title' %}	
+{% assign alldocs = site.documents %}	
 
 {% assign grouptag =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 {%- for tag in grouptag -%}
