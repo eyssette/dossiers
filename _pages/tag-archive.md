@@ -12,7 +12,7 @@ author_profile: true
 <ul>
 	{%- for document in alldocs -%}
     	{% if document.tags contains tag.name %}
-        	 <li><a href="https://eyssette.github.io/dossiers/{{- document.url -}}">{{- document.title -}}</a></li>
+        	 <li><a href="https://eyssette.github.io/dossiers{{- document.url -}}">{{- document.title -}}</a></li>
 		 {% endif %}
     {%- endfor -%}
 </ul>
