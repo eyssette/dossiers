@@ -97,7 +97,7 @@ defaults:
     values:
       layout: posts
       author_profile: true
-  # _ethique-environnementale
+  # _ethique_environnementale
   - scope:
       path: ""
       type: pages
@@ -119,7 +119,7 @@ tag_archive:
 
 
 collections:
-  - ethique-environnementale:
+  - ethique_environnementale:
     output: true
     permalink: /:collection/:path/
 
