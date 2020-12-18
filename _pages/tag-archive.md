@@ -8,11 +8,11 @@ author_profile: true
 {% assign alldocs = site.documents | <additional standard filtering and sorting> %}	
 {% assign grouptag =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 {%- for tag in grouptag -%}
-    <h2>{{- tag.name -}} : {{tag.size}}</h2>
+<h2>{{- tag.name -}} : {{tag.size}}</h2>
 <ul>
 	{%- for document in alldocs -%}
     	{% if document.tags contains tag.name %}
-        	 <li><a href="{{- document.url -}}">{{- document.title -}}</a></li>
+        	 <li><a href="{{- site.url + '/' + document.url -}}">{{- document.title -}}</a></li>
 		 {% endif %}
     {%- endfor -%}
 </ul>
