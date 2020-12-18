@@ -9,11 +9,11 @@ author_profile: true
 {% assign grouptag =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 {%- for tag in grouptag -%}
     <h2>{{- tag.name -}} : {{tag.size}}</h2>
-	<ul>
+<ul>
 	{%- for document in alldocs -%}
     	{% if document.tags contains tag.name %}
         	 <li><a href="{{- document.url -}}">{{- document.title -}}</a></li>
 		 {% endif %}
     {%- endfor -%}
-	</ul>
+</ul>
 {%- endfor -%}
