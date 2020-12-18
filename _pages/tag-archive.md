@@ -5,14 +5,14 @@ layout: tags
 author_profile: true
 ---
 
-{% assign alldocs = site.documents | sort: 'title' %}	
+{% assign alldocs = site.documents %}	
 
-{% assign alldocsunique = '' | split: ',' %}
+{% assign alldocsbytitle = alldocs | group_by: 'title' %}	
 
-{% for item in alldocs %}
-	{% unless alldocsunique.previous == item  %}
-        {% assign alldocsunique = alldocsunique | push: item %}
-    {% endunless %}
+{% assign alldocsunique = '' | split: '' %}
+
+{% for docs in alldocsbytitle %}
+    {% assign alldocsunique = alldocsunique | push: docs.items[0] %}
 {% endfor %}
 
 {% assign grouptag =  alldocsunique | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
