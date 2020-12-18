@@ -5,12 +5,12 @@ layout: tags
 author_profile: true
 ---
 
-{% assign alldocs = site.documents %}	
+{% assign alldocs = site.documents | sort: 'title' %}	
 
 {% assign alldocsunique = '' | split: ',' %}
 
 {% for item in alldocs %}
-	{% unless alldocsunique contains item.title %}
+	{% unless alldocsunique.previous == item  %}
         {% assign alldocsunique = alldocsunique | push: item %}
     {% endunless %}
 {% endfor %}
