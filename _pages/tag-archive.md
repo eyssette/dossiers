@@ -11,7 +11,7 @@ author_profile: true
 
 {% assign alldocsunique = alldocs | where:titlesunique %}	
 
-{% assign grouptag =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
+{% assign grouptag =  alldocsunique | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 {%- for tag in grouptag -%}
 <h2>{{- tag.name -}} : {{tag.size}}</h2>
 <ul>
