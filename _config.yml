@@ -103,7 +103,7 @@ defaults:
       type: ethique-environnementale
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
       comments: false
       related: true
