@@ -5,13 +5,9 @@ layout: tags
 author_profile: true
 ---
 
-{% assign alldocs = site.documents | <additional standard filtering and sorting> %}	
+{% assign alldocs = site.documents | sort: "title" | uniq %}	
 
-{% assign titlesunique = alldocs | uniq | map: 'title' %}	
-
-{% assign alldocsunique = alldocs | where:titlesunique %}	
-
-{% assign grouptag =  alldocsunique | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
+{% assign grouptag =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 {%- for tag in grouptag -%}
 <h2>{{- tag.name -}} : {{tag.size}}</h2>
 <ul>
