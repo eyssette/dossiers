@@ -1,5 +1,5 @@
 ---
-title: "Michela Marzano : les travaux pionniers de John Muir et Gifford Pinchot"
+title: "Michela Marzano – Les travaux pionniers de John Muir et Gifford Pinchot"
 categories: Marzano
 tags: Nature
 ---

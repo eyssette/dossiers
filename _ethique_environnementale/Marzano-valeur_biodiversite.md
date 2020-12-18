@@ -1,5 +1,5 @@
 ---
-title: "Marzano, Michela : deux conceptions de la valeur de la biodiversité"
+title: "Michela Marzano – Deux conceptions de la valeur de la biodiversité"
 categories: Marzano
 tags: Nature
 ---
