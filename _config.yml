@@ -119,7 +119,7 @@ tag_archive:
 
 
 collections:
-  - ethique_environnementale:
+  ethique_environnementale:
     output: true
     permalink: /:collection/:path/
 
