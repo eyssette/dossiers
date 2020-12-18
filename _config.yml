@@ -99,7 +99,7 @@ defaults:
       author_profile: true
   # _ethique_environnementale
   - scope:
-      path: ""
+      path: "_ethique_environnementale"
       type: pages
     values:
       layout: posts
