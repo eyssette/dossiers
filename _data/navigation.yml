@@ -2,6 +2,6 @@ main:
   - title: "Thématiques"
     url: /
   - title: "Notions"
-    url: /tags/
+    url: /notions/
   - title: "Auteurs"
-    url: /categories/  
+    url: /auteurs/  
