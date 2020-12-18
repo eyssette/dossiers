@@ -7,14 +7,11 @@ author_profile: true
 
 {% assign alldocs = site.documents %}	
 
-{% assign alldocsunique = '' | split: '' %}
+{% assign alldocsunique = '' | split: ',' %}
 
 {% for item in alldocs %}
-    {% assign array_item = '' | split: '' %}
-    {% assign array_item = array_item | push: item %}
-    
-	{% unless alldocsunique contains array_item %}
-        {% assign alldocsunique = alldocsunique | push: array_item %}
+	{% unless alldocsunique contains item.title %}
+        {% assign alldocsunique = alldocsunique | push: item %}
     {% endunless %}
 {% endfor %}
 
