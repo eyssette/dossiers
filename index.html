@@ -1,11 +1,6 @@
 ---
-layout: default
+layout: single
 ---
-
-<div id="main" role="main">
-    {% include sidebar.html %}
-  
-    <div class="archive">
         {% capture written_label %}'None'{% endcapture %}
 
         {% for collection in site.collections %}
@@ -17,13 +12,3 @@ layout: default
             {% endif %}
           {% endunless %}
         {% endfor %}
-
-
-    </div>
-  
-
-</div>
-
-
-
-
