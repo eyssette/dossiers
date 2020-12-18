@@ -53,9 +53,11 @@ layout: default
           <strong><i class="fas fa-layer-group" aria-hidden="true"></i> Thématiques: </strong>
           <span itemprop="keywords">
             {% for collection in site.collections %}
-              {% if collection.label == page.collection %}
-                <a href="/dossiers/{{collection.label}}" class="page__taxonomy-item" rel="tag">{{collection.label}}</a>
-              {% endif %}
+              {% for post in collection.docs %}
+                {% if post.title == page.title %}
+                  <a href="/dossiers/{{collection.label}}" class="page__taxonomy-item" rel="tag">{{collection.label}}</a>
+                {% endif %}
+                {% endfor %}
             {% endfor %}
           </span>
         </p>
