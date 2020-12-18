@@ -112,10 +112,10 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /auteurs/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /notions/
 
 
 collections:

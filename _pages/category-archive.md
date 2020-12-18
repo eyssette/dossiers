@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Textes par auteurs"
 layout: categories
-permalink: /categories/
+permalink: /auteurs/
 author_profile: true
 ---
