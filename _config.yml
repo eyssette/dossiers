@@ -97,18 +97,6 @@ defaults:
     values:
       layout: posts
       author_profile: true
-  # _ethique_environnementale
-  - scope:
-      path: ""
-      type: ethique_environnementale
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: false
-      related: true
-      read_time: true
-
 
 category_archive:
   type: liquid
@@ -123,6 +111,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     title: "Éthique environnementale"
+  ethique_animale:
+    output: true
+    permalink: /:collection/:path/
+    title: "Éthique animale"
 
 
 
