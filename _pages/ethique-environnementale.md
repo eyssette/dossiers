@@ -1,7 +1,7 @@
 ---
 title: "Éthique environnementale"
 permalink: /ethique-environnementale/
-collection: ethique_environnementale
+collection: ethique-environnementale
 ---
 
 {{ content }}
