@@ -5,15 +5,8 @@ layout: tags
 author_profile: true
 ---
 
-{% assign alldocs = site.documents %}	
+{% assign alldocsunique = site.documents | map: 'title' | unique %}	
 
-{% assign alldocsunique = '' | split: ',' %}
-
-{% for item in alldocs %}
-	{% unless alldocsunique contains item.title %}
-        {% assign alldocsunique = alldocsunique | push: item %}
-    {% endunless %}
-{% endfor %}
 
 {% assign grouptag =  alldocsunique | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 {%- for tag in grouptag -%}
