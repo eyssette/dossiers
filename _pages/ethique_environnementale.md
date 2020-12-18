@@ -2,6 +2,7 @@
 title: "Éthique environnementale"
 permalink: /ethique_environnementale/
 collection: ethique_environnementale
+classes: wide
 ---
 
 {% for texte in site.ethique_environnementale %}

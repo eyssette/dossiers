@@ -88,6 +88,7 @@ defaults:
       comments: false
       related: true
       read_time: true
+      classes: wide
   # _posts
   - scope:
       type: posts
