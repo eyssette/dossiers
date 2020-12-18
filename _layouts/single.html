@@ -55,7 +55,7 @@ layout: default
             {% for collection in site.collections %}
               {% for post in collection.docs %}
                 {% if post.title == page.title %}
-                  <a href="/dossiers/{{collection.label}}" class="page__taxonomy-item" rel="tag">{{collection.label}}</a>
+                  <a href="/dossiers/{{collection.label}}" class="page__taxonomy-item" rel="tag">{{collection.title}}</a>
                 {% endif %}
                 {% endfor %}
             {% endfor %}
