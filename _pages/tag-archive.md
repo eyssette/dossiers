@@ -11,7 +11,7 @@ author_profile: true
     <h1>{{- tag.name -}} - {{tag.size}}</h1>
 	{%- for document in alldocs -%}
     	{% if document.tags contains tag.name %}
-        	 <p>{{- document.title -}}
+        	 <p>{{- document.title -}}</p>
 		 {% endif %}
     {%- endfor -%}
 {%- endfor -%}
