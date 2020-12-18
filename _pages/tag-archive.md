@@ -5,8 +5,8 @@ layout: tags
 author_profile: true
 ---
 
-{% assign alldocs = site.documents | <additional standard filtering and sorting> %}	
-{% assign grouptag =  alldocs | map: 'tags' | uniq | join: ','  | split: ','  | group_by: tag %}
+{% assign alldocs = site.documents | uniq | <additional standard filtering and sorting> %}	
+{% assign grouptag =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 {%- for tag in grouptag -%}
 <h2>{{- tag.name -}} : {{tag.size}}</h2>
 <ul>

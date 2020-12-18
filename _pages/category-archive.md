@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 
-{% assign alldocs = site.documents | <additional standard filtering and sorting> %}	
-{% assign groupcategories =  alldocs | map: 'categories' | uniq | join: ','  | split: ','  | group_by: category %}
+{% assign alldocs = site.documents | uniq | <additional standard filtering and sorting> %}	
+{% assign groupcategories =  alldocs | map: 'categories' | join: ','  | split: ','  | group_by: category %}
 {%- for category in groupcategories -%}
 <h2>{{- category.name -}} : {{category.size}}</h2>
 <ul>
