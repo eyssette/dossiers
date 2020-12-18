@@ -7,6 +7,8 @@ author_profile: true
 
 {% assign alldocs = site.documents %}	
 
+{% alldocs %}
+
 {% assign grouptag =  alldocs | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 {%- for tag in grouptag -%}
 <h2>{{- tag.name -}} : {{tag.size}}</h2>
