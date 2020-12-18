@@ -100,7 +100,7 @@ defaults:
   # _ethique_environnementale
   - scope:
       path: ""
-      type: dossier
+      type: ethique_environnementale
     values:
       layout: single
       author_profile: false
