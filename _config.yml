@@ -122,6 +122,7 @@ collections:
   ethique_environnementale:
     output: true
     permalink: /:collection/:path/
+    title: "Éthique environnementale"
 
 
 
