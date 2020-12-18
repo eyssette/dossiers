@@ -104,9 +104,11 @@ defaults:
 category_archive:
   type: liquid
   path: /auteurs/
+  read_time: true
 tag_archive:
   type: liquid
   path: /notions/
+  read_time: true
 
 
 collections_dir: textes
