@@ -1,7 +1,7 @@
 ---
 title: "Éthique environnementale"
-permalink: /ethique-environnementale/
-collection: ethique-environnementale
+permalink: /ethique_environnementale/
+collection: ethique_environnementale
 ---
 
 {% for texte in site.ethique-environnementale %}
