@@ -1,6 +1,6 @@
 ---
 title: "Textes classés par notions"
-permalink: /tags/
+permalink: /notions/
 layout: tags
 author_profile: true
 ---
