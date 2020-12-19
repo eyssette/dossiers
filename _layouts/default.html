@@ -31,9 +31,11 @@
       
         {% assign t = t | replace: '« ', '«&#160;'
                         | replace: ' »', '&#160;»'
-                        | replace: ' ;', '<span style="white-space:nowrap">&thinsp;</span>;'
-                        | replace: ' !', '<span style="white-space:nowrap">&thinsp;</span>!'
-                        | replace: ' ?', '<span style="white-space:nowrap">&thinsp;</span>?' %}
+                        | replace: ' :', '&#160;:'
+                        | replace: ' %', '&#160;%'
+                        | replace: ' ;', '&thinsp;;'
+                        | replace: ' !', '&thinsp;!''
+                        | replace: ' ?', '&thinsp;?' %}
       
         {% if part.size == 2 %}
       
