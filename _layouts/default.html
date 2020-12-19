@@ -21,6 +21,8 @@
 
     <div class="initial-content">
       {% assign t = content %}
+      {% assign t = t | replace: ' :', '&#160;:'
+                | replace: ' %', '&#160;%' %}
       {% capture output %}{{ output }}{{ t }}{% endcapture %}
       {{ output }}
 
