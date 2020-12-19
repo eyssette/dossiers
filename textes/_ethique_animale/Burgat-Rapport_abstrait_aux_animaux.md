@@ -1,6 +1,6 @@
 ---
 title: "Florence Burgat – Nous avons généralement un rapport abstrait aux animaux de production"
-categories: "Burgat, Florence"
+categories: [Burgat Florence]
 tags: Nature Morale Devoir
 ---
 
