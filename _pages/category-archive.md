@@ -21,7 +21,7 @@ author_profile: true
 {%- for category in groupcategories -%}
 <h2 id="{{category.name | replace: ' ', '-' | downcase}}">{{- category.name -}} : {{category.size}}</h2>
 <ul>
-	{%- for document in alldocsunique -%}
+	{%- for document in alldocsunique sort_natural -%}
     	{% if document.categories contains category.name %}
         	 <li><a href="https://eyssette.github.io/dossiers{{- document.url -}}">{{- document.title -}}</a></li>
 		 {% endif %}
