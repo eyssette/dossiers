@@ -17,7 +17,7 @@ author_profile: true
 
 {% assign grouptag =  alldocsunique | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 
-{% assign grouptagsorted = grouptag | sort %}
+{% assign grouptagsorted = grouptag | sort: 'tag' %}
 
 {%- for tag in grouptagsorted -%}
 <h2>{{- tag.name -}} : {{tag.size}}</h2>
