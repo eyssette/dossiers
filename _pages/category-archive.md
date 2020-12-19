@@ -18,7 +18,13 @@ author_profile: true
 {% assign alldocsunique = alldocsunique | sort: 'title' %}
 
 {% assign groupcategories =  alldocsunique | map: 'categories' | join: ','  | split: ','  | group_by: category %}
+
+{% assign categorieslist = '' | split: '' %}
+
 {%- for category in groupcategories -%}
+
+{% capture categoriesitems %}
+
 <h2 id="{{category.name | replace: ' ', '-' | downcase}}">{{- category.name -}} : {{category.size}}</h2>
 <ul>
 	{%- for document in alldocsunique -%}
@@ -27,4 +33,13 @@ author_profile: true
 		 {% endif %}
     {%- endfor -%}
 </ul>
+
+{% endcapture %}
+
+{% assign categorieslist = taglist | push: categoriesitems %}
+
 {%- endfor -%}
+
+
+{% capture output %}{{ output }}{{ categorieslist | sort }}{% endcapture %}
+{{ output }}

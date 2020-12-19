@@ -19,8 +19,6 @@ author_profile: true
 
 {% assign grouptag =  alldocsunique | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 
-{% assign num_tags = grouptag | size %}
-
 {% assign taglist = '' | split: '' %}
 
 {%- for tag in grouptag -%}
