@@ -1,7 +1,7 @@
 ---
 title: "Textes classés par notions"
-permalink: /notions/
 layout: tags
+permalink: /notions/
 author_profile: true
 ---
 
@@ -14,6 +14,8 @@ author_profile: true
 {% for docs in alldocsbytitle %}
     {% assign alldocsunique = alldocsunique | push: docs.items[0] %}
 {% endfor %}
+
+{% assign alldocsunique = alldocsunique | sort: 'title' %}
 
 {% assign grouptag =  alldocsunique | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 
