@@ -1,6 +1,6 @@
 ---
 title: "Michela Marzano – Les travaux pionniers de John Muir et Gifford Pinchot"
-categories: Marzano
+categories: Marzano Muir Pinchot
 tags: Nature Morale Devoir
 ---
 
