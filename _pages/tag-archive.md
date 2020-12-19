@@ -42,6 +42,6 @@ author_profile: true
 
 {%- endfor -%}
 
-{% capture output %}{{ output }}{{ taglist }}{% endcapture %}
+{% capture output %}{{ output }}{{ taglist | sort }}{% endcapture %}
 {{ output }}
 
