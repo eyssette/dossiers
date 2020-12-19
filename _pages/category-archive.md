@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-{% assign groupcategories =  alldocsunique | map: 'categories' | join: ','  | split: ','  | group_by: category %}
+{% assign groupcategories =  alldocsunique | map: 'categories' | join: ','  | split: ','  | group_by: category | sort: 'categories' %}
 {%- for category in groupcategories -%}
 <h2 id="{{- category.name -}}">{{- category.name -}} : {{category.size}}</h2>
 <ul>
