@@ -31,8 +31,6 @@
       
         {% assign t = t | replace: '« ', '«&#160;'
                         | replace: ' »', '&#160;»'
-                        | replace: ' :', '&#160;:'
-                        | replace: ' %', '&#160;%'
                         | replace: ' ;', '<span style="white-space:nowrap">&thinsp;</span>;'
                         | replace: ' !', '<span style="white-space:nowrap">&thinsp;</span>!'
                         | replace: ' ?', '<span style="white-space:nowrap">&thinsp;</span>?' %}
