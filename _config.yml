@@ -61,6 +61,7 @@ author:
   name   : "Cédric Eyssette"
   avatar : "/assets/images/avatar.jpg"
   bio    : "Une sélection de textes classés par thématiques"
+  home : "./" 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
