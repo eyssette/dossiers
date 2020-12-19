@@ -20,24 +20,7 @@
     {% include_cached masthead.html %}
 
     <div class="initial-content">
-      
-      
-        {% assign t = content %}
-      
-        {% assign t = t | replace: '« ', '«&#160;'
-                        | replace: ' »', '&#160;»'
-                        | replace: '“ ', '“'
-                        | replace: ' ”', '”'
-                        | replace: ' :', '&#160;:'
-                        | replace: ' %', '&#160;%'
-                        | replace: ' ;', '&thinsp;;'
-                        | replace: ' !', '&thinsp;!''
-                        | replace: ' ?', '&thinsp;?' %}
-      
-        {% capture output %}{{ output }}{{ t }}{% endcapture %}
-      
-      {{ output }}
-
+      {{ content }}
     </div>
 
     {% if site.search == true %}
