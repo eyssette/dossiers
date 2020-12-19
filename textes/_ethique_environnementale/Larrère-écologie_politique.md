@@ -1,0 +1,9 @@
+---
+title: "Catherine Larrère – Écologie scientifique et écologie politique selon André Gorz"
+categories: Larrère Gorz
+tags: Nature Morale Devoir
+---
+
+« André Gorz distingue deux écologies. L’une, qu’il appelle « l’écologie scientifique », se donne pour objectif de corriger les excès du capitalisme en calculant les seuils à ne pas franchir sous peine de dégrader la biosphère. L’autre, « l’écologie politique », a pour objectif un nouveau modèle de civilisation capable de transformer les rapports des hommes entre eux, à leur environnement et à la nature . Ce qui distingue l’écologie politique des connaissances scientifiques auxquelles elle peut faire appel, c’est sa capacité à élaborer un projet de société différent des modèles en vigueur. Un tel projet vise à transformer à la fois les rapports sociaux et les rapports des hommes à la nature. C’est ce qui le distingue d’autres projets politiques d’altérité sociale, comme le socialisme, qui ne portent explicitement que sur les rapports des hommes entre eux. Mais cela fait aussi la différence de l’écologie politique avec le souci de protection de la nature. Ce souci, apparu dans les pays occidentaux, des deux côtés de l’Atlantique, dans la seconde moitié du XIXe siècle, visait à mettre des espaces naturels – grâce, notamment, à la création de parcs nationaux – à l’abri des transformations induites par le développement urbain et industriel. Mais celui-ci n’était pas directement remis en cause. L’écologie politique considère au contraire qu’il ne s’agit pas de deux domaines séparés : si le rapport de l’homme à la nature passe par l’homme […], on ne peut changer les rapports des hommes à la nature sans transformer les rapports des hommes entre eux et réciproquement. Toute la question porte sur l’importance et l’étendue de ces transformations. »
+
+Catherine Larrère, « L’écologie politique existe-t-elle ? », _Esprit_, vol. janv.-févr., n. 1-2, 2018
