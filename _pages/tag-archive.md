@@ -25,9 +25,7 @@ author_profile: true
 
 {%- for tag in grouptag -%}
 
-{% assign tag_index = forloop.index0 | modulo: num_tags %}
-
-{% capture taglist[tag_index] %}
+{% capture tagitems %}
 
 <h2>{{- tag.name -}} : {{tag.size}}</h2>
 <ul>
@@ -40,10 +38,10 @@ author_profile: true
 
 {% endcapture %}
 
-{% assign taglist = taglist | push: taglist[tag_index] %}
+{% assign taglist = taglist | push: tagitems %}
 
 {%- endfor -%}
 
-      {% capture output %}{{ output }}{{ taglist }}{% endcapture %}
-      {{ output }}
+{% capture output %}{{ output }}{{ taglist }}{% endcapture %}
+{{ output }}
 
