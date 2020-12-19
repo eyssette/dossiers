@@ -12,7 +12,14 @@
  text-align:justify;
  font-size:90%;   
  color:rgb(195, 196, 199);
- max-width:750px;
+}
+
+#main p {
+max-width:750px;
+}
+
+#main ol li {
+ max-width:710px;
 }
 
 #main p.page__taxonomy {
