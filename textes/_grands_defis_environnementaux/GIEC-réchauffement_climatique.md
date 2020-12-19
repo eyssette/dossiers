@@ -13,6 +13,7 @@ tags: Nature Morale Devoir
 6. Risques de perte des moyens de subsistance et de revenus dans les régions rurales en raison d’un accès insuffisant à l’eau potable et à l’eau d’irrigation, ainsi qu’à la diminution de la productivité agricole, en particulier pour les agriculteurs et les éleveurs disposant de moyens limités dans les régions semi-arides.  
 7. Risques de perte des écosystèmes marins et côtiers, de la biodiversité et des biens, fonctions et services écosystémiques qu’ils apportent aux moyens de subsistance, en particulier pour les collectivités de pêcheurs des régions tropicales et arctiques.  
 8. Risque de perte d’écosystèmes terrestres et d’écosystèmes des eaux intérieures, de leur biodiversité, et des biens, fonctions et services écosystémiques qu’ils apportent aux moyens de subsistance.  
+
 Nombre de ces risques posent des défis particuliers pour les pays les moins développés et les collectivités vulnérables, compte tenu des capacités limitées dont ils disposent pour y faire face. »
 
 Groupe d'experts intergouvernemental sur l'évolution du climat, Changements climatiques 2014 : Incidences, adaptation et vulnérabilité. URL : [https://bit.ly/3a4IVAJ](https://bit.ly/3a4IVAJ)
