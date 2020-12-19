@@ -21,13 +21,8 @@
 
     <div class="initial-content">
       
-      {% assign content = content | split: '<pre' %}
-
-      {% for parts in content %}
       
-        {% assign part = parts | split: '</pre>' %}
-        {% assign c = part.first %}
-        {% assign t = part.last %}
+        {% assign t = content %}
       
         {% assign t = t | replace: '« ', '«&#160;'
                         | replace: ' »', '&#160;»'
@@ -39,15 +34,8 @@
                         | replace: ' !', '&thinsp;!''
                         | replace: ' ?', '&thinsp;?' %}
       
-        {% if part.size == 2 %}
-      
-          {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
-      
-        {% endif %}
-      
         {% capture output %}{{ output }}{{ t }}{% endcapture %}
       
-      {% endfor %}
       {{ output }}
 
     </div>
