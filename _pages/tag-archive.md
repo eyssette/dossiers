@@ -21,6 +21,8 @@ author_profile: true
 
 {% assign num_tags = grouptag | size %}
 
+{% assign taglist = '' | split: '' %}
+
 {%- for tag in grouptag -%}
 
 {% assign tag_index = forloop.index0 | modulo: num_tags %}
@@ -37,6 +39,8 @@ author_profile: true
 </ul>
 
 {% endcapture %}
+
+ {% assign taglist = taglist | push: taglist[tag_index] %}
 
 {%- endfor -%}
 
