@@ -40,9 +40,10 @@ author_profile: true
 
 {% endcapture %}
 
- {% assign taglist = taglist | push: taglist[tag_index] %}
+{% assign taglist = taglist | push: taglist[tag_index] %}
 
 {%- endfor -%}
 
-{% taglist | sort %}
+      {% capture output %}{{ output }}{{ taglist }}{% endcapture %}
+      {{ output }}
 
