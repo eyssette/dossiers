@@ -7,7 +7,7 @@ author_profile: true
 
 {% assign alldocs = site.documents %}	
 
-{% assign alldocsbytitle = alldocs | group_by: 'title' | sort: 'title' %}	
+{% assign alldocsbytitle = alldocs | group_by: 'title' %}	
 
 {% assign alldocsunique = '' | split: '' %}
 
@@ -20,7 +20,7 @@ author_profile: true
 {%- for tag in grouptag -%}
 <h2>{{- tag.name -}} : {{tag.size}}</h2>
 <ul>
-	{%- for document in alldocsunique sort_natural -%}
+	{%- for document in alldocsunique -%}
     	{% if document.tags contains tag.name %}
         	 <li><a href="https://eyssette.github.io/dossiers{{- document.url -}}">{{- document.title -}}</a></li>
 		 {% endif %}

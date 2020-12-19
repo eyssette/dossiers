@@ -7,7 +7,7 @@ author_profile: true
 
 {% assign alldocs = site.documents %}	
 
-{% assign alldocsbytitle = alldocs | group_by: 'title' | sort: 'title' %}	
+{% assign alldocsbytitle = alldocs | group_by: 'title' %}	
 
 {% assign alldocsunique = '' | split: '' %}
 
@@ -15,13 +15,13 @@ author_profile: true
     {% assign alldocsunique = alldocsunique | push: docs.items[0] %}
 {% endfor %}
 
+{% assign alldocsunique = alldocsunique | sort: 'title' %}
 
-
-{% assign groupcategories =  alldocsunique | map: 'categories' | join: ','  | split: ','  | group_by: category | sort %}
+{% assign groupcategories =  alldocsunique | map: 'categories' | join: ','  | split: ','  | group_by: category %}
 {%- for category in groupcategories -%}
 <h2 id="{{category.name | replace: ' ', '-' | downcase}}">{{- category.name -}} : {{category.size}}</h2>
 <ul>
-	{%- for document in alldocsunique sort_natural -%}
+	{%- for document in alldocsunique -%}
     	{% if document.categories contains category.name %}
         	 <li><a href="https://eyssette.github.io/dossiers{{- document.url -}}">{{- document.title -}}</a></li>
 		 {% endif %}
