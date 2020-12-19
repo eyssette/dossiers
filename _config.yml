@@ -125,6 +125,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     title: "Éthique animale"
+  grands_defis_environnementaux:
+    output: true
+    permalink: /:collection/:path/
+    title: "Grands défis environnementaux"
 
 
 
