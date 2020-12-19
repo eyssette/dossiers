@@ -88,7 +88,7 @@ defaults:
       author_profile: true
       share: false
       comments: false
-      related: true
+      related: false
       read_time: true
       classes: wide
   # _posts
