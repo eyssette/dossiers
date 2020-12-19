@@ -7,7 +7,7 @@ author_profile: true
 
 {% assign alldocs = site.documents %}	
 
-{% assign alldocsbytitle = alldocs | group_by: 'title' %}	
+{% assign alldocsbytitle = alldocs | group_by: 'title' | sort: 'title' %}	
 
 {% assign alldocsunique = '' | split: '' %}
 
