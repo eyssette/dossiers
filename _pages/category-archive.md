@@ -41,5 +41,5 @@ author_profile: true
 {%- endfor -%}
 
 
-{% capture output %}{{ output }}{{ categorieslist | sort }}{% endcapture %}
+{% capture output %}{{ output }}{{ categorieslist }}{% endcapture %}
 {{ output }}
