@@ -19,7 +19,14 @@ author_profile: true
 
 {% assign grouptag =  alldocsunique | map: 'tags' | join: ','  | split: ','  | group_by: tag %}
 
+{% assign num_tags = grouptag | size %}
+
 {%- for tag in grouptag -%}
+
+{% assign tag_index = forloop.index0 | modulo: num_tags %}
+
+{% capture taglist[tag_index] %}
+
 <h2>{{- tag.name -}} : {{tag.size}}</h2>
 <ul>
 	{%- for document in alldocsunique -%}
@@ -28,4 +35,10 @@ author_profile: true
 		 {% endif %}
     {%- endfor -%}
 </ul>
+
+{% endcapture %}
+
 {%- endfor -%}
+
+{% taglist | sort %}
+
