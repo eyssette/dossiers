@@ -1,6 +1,6 @@
 ---
 title: "Jeangène Vilmer – Une perspective holiste : l'écocentrisme de Callicott"
-categories: 'Jeangène Vilmer' Callicott
+categories: "Jeangène Vilmer" Callicott
 tags: Nature Morale Devoir
 ---
 
