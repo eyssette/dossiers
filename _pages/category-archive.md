@@ -36,10 +36,10 @@ author_profile: true
 
 {% endcapture %}
 
-{% assign categorieslist = taglist | push: categoriesitems %}
+{% assign categorieslist = categorieslist | push: categoriesitems %}
 
 {%- endfor -%}
 
 
-{% capture output %}{{ output }}{{ categorieslist }}{% endcapture %}
+{% capture output %}{{ output }}{{ categorieslist | sort }}{% endcapture %}
 {{ output }}
