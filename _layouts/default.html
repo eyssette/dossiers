@@ -31,8 +31,11 @@
       
         {% assign t = t | replace: '« ', '«&#160;'
                         | replace: ' »', '&#160;»'
+                        | replace: '“ ', '“'
+                        | replace: ' ”', '”'
                         | replace: ' :', '&#160;:'
                         | replace: ' %', '&#160;%'
+                        | replace: ' ;', '&thinsp;;'
                         | replace: ' !', '&thinsp;!''
                         | replace: ' ?', '&thinsp;?' %}
       
