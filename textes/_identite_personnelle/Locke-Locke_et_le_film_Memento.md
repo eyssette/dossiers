@@ -1,5 +1,5 @@
 ---
-title: "Olivier Dekens – John Locke sur l'identité personnelle et le film _Memento_"
+title: "Olivier Dekens – John Locke sur l'identité personnelle et le film <i>Memento</i>"
 categories: [Locke, Dekens Olivier]
 tags: [Recherche de soi, Conscience]
 ---
