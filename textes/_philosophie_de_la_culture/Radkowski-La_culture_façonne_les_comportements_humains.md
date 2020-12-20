@@ -1,6 +1,6 @@
 ---
 title: "Georges-Hubert de Radkowski – La culture façonne les comportements humains"
-categories: Radkowski, Mauss
+categories: Radkowski Mauss
 tags: [Culture, Existence humaine]
 ---
 
