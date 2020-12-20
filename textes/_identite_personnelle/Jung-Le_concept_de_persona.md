@@ -1,5 +1,5 @@
 ---
-title: "Jung – Le concept de _persona_"
+title: "Jung – Le concept de <i>persona</i>"
 categories: Jung
 tags: [Recherche de soi, Conscience]
 ---
