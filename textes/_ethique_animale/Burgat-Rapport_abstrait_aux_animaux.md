@@ -1,7 +1,7 @@
 ---
 title: "Florence Burgat – Nous avons généralement un rapport abstrait aux animaux de production"
 categories: [Burgat Florence]
-tags: Nature Morale Devoir
+tags: [Nature, Morale, Devoir, L'homme et l'animal]
 ---
 
 « Que personne ne s'avise de coller son oreille à la chair inerte, au risque d'y entendre le souffle rauque de la bête qui s'affale. La pitié pour l'opaque misère des animaux [destinés à la consommation] s'estompe vite, dès lors que le spectacle de leur souffrance est caché, et leur exploitation justifiée par la force des arguments économiques. Du calvaire de l'animal, le consommateur ne sait rien et ne veut rien savoir : les lieux de mise à mort sont d'ailleurs distincts des lieux de vente […]. En soustrayant à la perception la présence effective de la mort, c'est la possibilité même de l'alimentation carnée qui devient peu à peu impensable, parce qu'inimaginable, hors représentation.  

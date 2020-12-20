@@ -1,0 +1,11 @@
+---
+title: "Kant – Dans l'éducation, la contrainte est nécessaire pour pouvoir cultiver la liberté"
+categories: Kant
+tags: Éducation_transmission_et_émancipation Liberté
+---
+
+« Un animal est par son instinct même tout ce qu’il peut être […] [L]’homme a besoin de sa propre raison. Il n’a pas d’instinct, et il faut qu’il se fasse à lui-même son plan de conduite. Mais, comme il n’en est pas immédiatement capable, et qu’il arrive dans le monde à l’état sauvage, il a besoin du secours des autres. […] On peut ou bien dresser, façonner, instruire l’homme d’une manière toute mécanique, ou bien l’éclairer véritablement. On dresse des chevaux, des chiens, et l’on peut aussi dresser des hommes. […] Il ne suffit pas de dresser les enfants ; il importe surtout qu’ils apprennent à penser. […] Un des plus grands problèmes de l’éducation est de concilier sous une contrainte légitime la soumission avec la faculté de se servir de sa liberté. Car la contrainte est nécessaire ! Mais comment cultiver la liberté par la contrainte ? Il faut que j’accoutume mon élève à souffrir que sa liberté soit soumise à une contrainte, et qu’en même temps je l’instruise à en faire lui-même un bon usage. Sans cela il n’y aurait en lui que pur mécanisme ; l’homme privé d’éducation ne sait pas se servir de sa liberté. Il est nécessaire qu’il sente de bonne heure la résistance inévitable de la société, afin d’apprendre à connaître combien il est difficile de se suffire à soi-même, de supporter les privations et d’acquérir de quoi se rendre indépendant. On doit observer ici les règles suivantes : 1) Il faut laisser l’enfant libre dès sa première enfance et dans tous les moments (excepté dans les circonstances où il peut se nuire à lui-même, comme par exemple s’il vient à saisir un instrument tranchant), mais à la condition qu’il ne fasse pas lui-même obstacle à la liberté d’autrui, comme par exemple quand il crie, ou que sa gaieté se manifeste d’une manière trop bruyante et qu’il incommode les autres. 2) On doit lui montrer qu’il ne peut arriver à ses fins qu’à la condition de laisser les autres arriver aussi aux leurs […] 3) Il faut lui prouver que la contrainte qu’on lui impose a pour but de lui apprendre à faire usage de sa propre liberté, qu’on le cultive afin qu’il puisse un jour être libre […] »
+
+Kant, _Réflexions sur l’éducation_, 1803
+
+

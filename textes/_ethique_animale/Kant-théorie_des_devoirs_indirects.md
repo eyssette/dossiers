@@ -1,7 +1,7 @@
 ---
 title: "Kant – La théorie des devoirs indirects"
 categories: Kant
-tags: Nature Morale Devoir
+tags: [Nature, Morale, Devoir, L'homme et l'animal]
 ---
 
 **a) Seuls les êtres de raison sont des personnes qui ont une dignité**
