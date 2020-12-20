@@ -25,7 +25,7 @@ author_profile: true
 
 {% capture tagitems %}
 
-<h2 id="{{tag.name | replace: ' ', '-' | replace: '\'', '-'  | downcase}}">{{- tag.name -}} : {{tag.size}}</h2>
+<h2 id="{{tag.name | replace: ' ', '-' | downcase}}">{{- tag.name -}} : {{tag.size}}</h2>
 <ul>
 	{%- for document in alldocsunique -%}
     	{% if document.tags contains tag.name %}
