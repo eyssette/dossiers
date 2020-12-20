@@ -1,0 +1,11 @@
+---
+title: "John Danaher – Faut-il craindre une domination des algorithmes ?"
+categories: [Danaher John]
+tags: Technique Liberté Politique
+---
+
+« La technologie moderne a rendu possible le contrôle, l’enregistrement, le traitement et l’exploitation des données, de la plupart de nos activités, principalement celles que nous accomplissons en ligne. Nous pouvons en partie exploiter ces données pour nous-mêmes […] en mesurant et en enregistrant ce que nous faisons, dans le but d’améliorer notre régime alimentaire, d’augmenter notre productivité, etc. […] Mais, bien sûr, les gouvernements et les entreprises peuvent avoir intérêt à faire usage de ces technologies d’enregistrement et de traitement des données, pour leurs propres fins. Les gouvernements peuvent utiliser ces technologies pour surveiller les activités terroristes, contrôler les fraudes à la sécurité sociale, et lutter contre l’évasion fiscale. Les entreprises peuvent les utiliser pour identifier les préférences des consommateurs, créer des publicités ciblées et exercer une influence sur les décisions d’achat. On pourrait penser que tout cela est pour le mieux. […] Mais […] il y a une facette plus sombre […] : les algorithmes se substituent au processus humain et désordonné de la prise de décision démocratique. Les citoyens en deviennent tributaires, ignorants de leur mode de fonctionnement, mais craignent de ne pas suivre leurs conseils. Cela crée une sorte de prison de “barbelés invisibles” […]  C’est l’argument de la menace de l’algocratie (la domination des algorithmes) […] : (1) Une gouvernance démocratique légitime requiert des procédures de prise de décision qui protègent la liberté et l’autonomie, et qui permettent la participation à ces procédures et la compréhension de leur fonctionnement. (2) Le recours à des algorithmes d’exploration de données (_data-mining_) porte atteinte à la liberté et à l’autonomie, et empêche la participation active et la compréhension des procédures de décision. (3) Par conséquent : le recours aux algorithmes d’exploration de données constitue une menace pour la gouvernance démocratique. »
+
+John Danaher, « Rule by Algorithm? Big Data and the Threat of Algocracy », _Philosophical Disquisitions_, [https://bit.ly/353KiLi](https://bit.ly/353KiLi)
+
+
