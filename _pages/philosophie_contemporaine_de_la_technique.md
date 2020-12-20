@@ -1,5 +1,5 @@
 ---
-title: "Philosophie contemporaine de la technique : quelques traduction de textes anglais"
+title: "Philosophie contemporaine de la technique : quelques traductions de textes anglais"
 permalink: /philosophie_contemporaine_de_la_technique/
 collection: philosophie_contemporaine_de_la_technique
 ---
