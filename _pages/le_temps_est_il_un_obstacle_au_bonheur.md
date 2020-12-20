@@ -1,6 +1,6 @@
 ---
 title: "Le temps est-il un obstacle au bonheur ?"
-permalink: /temps-obstacle-au-bonheur/
+permalink: /le_temps_est_il_un_obstacle_au_bonheur/
 collection: le_temps_est_il_un_obstacle_au_bonheur
 ---
 
