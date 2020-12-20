@@ -141,7 +141,11 @@ collections:
     permalink: /:collection/:path/
     title: "Philosophie contemporaine de la technique : quelques traduction de textes anglais"
     sort_by: title
-
+  l_education_rend_elle_libre:
+    output: true
+    permalink: /:collection/:path/
+    title: "L'éducation rend-elle libre ?"
+    sort_by: title
 
 main:
   - title: "Collections"
