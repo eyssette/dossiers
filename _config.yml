@@ -146,6 +146,11 @@ collections:
     permalink: /:collection/:path/
     title: "L'éducation rend-elle libre ?"
     sort_by: title
+  identite_personnelle:
+    output: true
+    permalink: /:collection/:path/
+    title: "Textes sur l'identité personnelle"
+    sort_by: title
 
 main:
   - title: "Collections"
