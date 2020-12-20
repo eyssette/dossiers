@@ -156,6 +156,12 @@ collections:
     permalink: /:collection/:path/
     title: "Philosophie de la culture"
     sort_by: title
+  anarchisme:
+    output: true
+    permalink: /:collection/:path/
+    title: "L'anarchisme"
+    sort_by: title
+
 
 main:
   - title: "Collections"

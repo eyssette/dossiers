@@ -1,0 +1,9 @@
+---
+title: "Proudhon – Voilà le gouvernement, voilà sa justice, voilà sa morale !"
+categories: Proudhon
+tags: Politique Liberté Justice
+---
+
+« Ô personnalité humaine ! se peut-il que pendant soixante siècles tu aies croupi dans cette abjection ? Tu te dis sainte et sacrée, et tu n'es que la prostituée, infatigable, gratuite, de tes valets, de tes moines et de tes soudarts. Tu le sais, et tu le souffres ! Être gouverné, c’est être gardé à vue, inspecté, espionné, dirigé, légiféré, réglementé, parqué, endoctriné, prêché, contrôlé, estimé, apprécié, censuré, commandé, par des êtres qui n’ont ni titre, ni la science, ni la vertu… Être gouverné, c’est être à chaque transaction, à chaque mouvement, noté, enregistré, recensé, tarifé, timbré, toisé, coté, cotisé, patenté, licencié, autorisé, admonesté, empêché, réformé, redressé, corrigé. C’est sous prétexte d’utilité publique et au nom de l’intérêt général être mis à contribution, exercé, rançonné, exploité, monopolisé, concussionné, pressuré, mystifié, volé ; puis, à la moindre réclamation, au premier mot de plainte, réprimé, amendé, vilipendé, vexé, traqué, houspillé, assommé, désarmé, garrotté, emprisonné, fusillé, mitraillé, jugé, condamné, déporté, sacrifié, vendu, trahi, et pour comble, joué, berné, outragé, déshonoré. Voilà le gouvernement, voilà sa justice, voilà sa morale ! Et qu’il y a parmi nous des démocrates qui prétendent que le gouvernement a du bon ; des socialistes qui soutiennent, au nom de la liberté, de l’égalité et de la fraternité, cette ignominie ; des prolétaires qui posent leur candidature à la présidence la République ! »
+
+Proudhon,_ Idée générale de la révolution au XIXe siècle _(1851)
