@@ -131,7 +131,11 @@ collections:
     permalink: /:collection/:path/
     title: "Grands défis environnementaux"
     sort_by: title
-
+  le_temps_est_il_un_obstacle_au_bonheur:
+    output: true
+    permalink: /:collection/:path/
+    title: "Le temps est-il un obstacle au bonheur ?"
+    sort_by: title
 
 
 main:
