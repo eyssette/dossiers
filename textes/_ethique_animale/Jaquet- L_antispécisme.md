@@ -1,7 +1,7 @@
 ---
 title: "François Jaquet – Qu'est-ce que l'antispécisme ?"
 categories: Jaquet
-tags: [Nature, Morale, Devoir, L'homme et l'animal]
+tags: [Nature, Morale, Devoir, Homme et animal]
 ---
 
 « La notion fait malheureusement l’objet d’un certain nombre de confusions.  […]

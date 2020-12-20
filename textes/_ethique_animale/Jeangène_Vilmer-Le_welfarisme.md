@@ -1,7 +1,7 @@
 ---
 title: "Jeangène Vilmer – Le welfarisme"
 categories: [Jeangène Vilmer]
-tags: [Nature, Morale, Devoir, L'homme et l'animal]
+tags: [Nature, Morale, Devoir, Homme et animal]
 ---
 
 « Il faut pour commencer distinguer entre ceux qui s’opposent au fait d’exploiter les animaux (abolitionnistes) et ceux qui s’opposent à la manière actuelle de le faire (welfaristes). Le but des premiers est d’abolir l’exploitation, celui des seconds de la réguler. […] Le welfarisme est le mouvement pour le bien-être (welfare) animal. […] [Il désigne] l’attitude de ceux, auteurs, politiques, associations, qui s’engagent en faveur de réformes susceptibles d’améliorer la condition des animaux sans remettre en cause le fait de les exploiter. […] Les welfaristes sont souvent utilitaristes, comme Singer. Mais ils peuvent aussi être déontologistes, comme Feinberg, c’est-à-dire défendre une théorie des droits. Ce qui les réunit est qu’ils font de la qualité de vie des animaux un problème moral.  

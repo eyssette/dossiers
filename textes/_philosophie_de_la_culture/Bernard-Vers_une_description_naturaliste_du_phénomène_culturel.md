@@ -1,7 +1,7 @@
 ---
 title: "Florent Bernard – Vers une description naturaliste du phénomène culturel"
 categories: [Bernard Florent, Darwin]
-tags: [Culture, L'existence humaine, Nature]
+tags: [Culture, Existence humaine, Nature]
 ---
 
 « Les malentendus réciproques entre sciences biologiques et sciences sociales ont conduit à un divorce entre les deux domaines, chacun développant ses recherches en laissant de côté les données accumulées dans l’autre domaine. […] Cependant, depuis quelques années des liens se tissent à nouveau entre sciences biologiques et sciences sociales, laissant augurer une meilleure compréhension de l’être humain. L’une des raisons principales de ce rapprochement est la prise en considération du caractère naturel de la vie sociale des grands singes. […] Relier le biologique avec le culturel se révèle être [cependant] une opération pour le moins délicate. […]  

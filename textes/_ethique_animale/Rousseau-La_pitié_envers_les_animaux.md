@@ -1,7 +1,7 @@
 ---
 title: "Rousseau – La pitié doit s'étendre à tous les êtres sensibles"
 categories: Rousseau
-tags: [Nature, Morale, Devoir, L'homme et l'animal]
+tags: [Nature, Morale, Devoir, Homme et animal]
 ---
 
 « Laissant donc tous les livres scientifiques qui ne nous apprennent qu'à voir les hommes tels qu'ils se sont faits, et méditant sur les premières et plus simples opérations de l'âme humaine, j'y crois apercevoir deux principes antérieurs à la raison, dont l'un nous intéresse ardemment à notre bien-être et à la conservation de nous-mêmes, et l'autre nous inspire une répugnance naturelle à voir périr ou souffrir tout être sensible et principalement nos semblables. […] [L]es devoirs envers autrui ne lui sont pas uniquement dictés par les tardives leçons de la sagesse ; et tant [que l'homme] ne résistera point à l'impulsion intérieure de la commisération, il ne fera jamais du mal à un autre homme ni même à aucun être sensible, excepté dans le cas légitime où sa conservation se trouvant intéressée, il est obligé de se donner la préférence à lui-même. Par ce moyen, on termine aussi les anciennes disputes sur [le statut des animaux]. Car il est clair que, dépourvus de lumières et de liberté […] mais, tenant en quelque chose à notre nature par la sensibilité dont ils sont doués, on jugera qu'ils doivent aussi participer au droit naturel, et que l'homme est assujetti envers eux à quelque espèce de devoirs. Il semble, en effet, que si je suis obligé de ne faire aucun mal à mon semblable, c'est moins parce qu'il est un être raisonnable que parce qu'il est un être sensible ; qualité qui, étant commune à la bête et à l'homme, doit au moins donner à l'une le droit de n'être point maltraitée inutilement par l'autre. »

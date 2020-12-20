@@ -1,7 +1,7 @@
 ---
 title: "Montaigne – La puissance de la tradition"
 categories: Montaigne
-tags: [Culture, L'existence humaine, Nature]
+tags: [Culture, Existence humaine, Nature]
 ---
 
 « [C]hacun vénère intérieurement les opinions et les mœurs reçues et acceptées autour de lui, et il ne peut s’en détacher sans remords, ni s’y appliquer sans les approuver. […] [L]e principal effet de la puissance de la tradition, c’est qu’elle nous saisit et nous enserre de telle façon que nous avons toutes les peines du monde à nous en dégager et à rentrer en nous-mêmes pour réfléchir et discuter ce qu’elle nous impose.

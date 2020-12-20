@@ -1,7 +1,7 @@
 ---
 title: "Godelier – Sens faible et sens fort de la notion de culture"
 categories: Godelier
-tags: [Culture, L'existence humaine]
+tags: [Culture, Existence humaine]
 ---
 
 « [On peut] donner deux définitions de la culture, une définition qu'on pourrait appeler faible et une autre qu'on appellera forte. Par définition faible on désignera un ensemble de signes et de conduites constituant des distinctions dans le comportement de deux communautés appartenant à la même espèce. Pour faire culture, ces signes et conduites doivent être partagés par les membres du groupe, être transmis socialement et individuellement, manifester des variations dans le temps et dans l'espace telles que ces variations appartiennent toutes finalement à un même ensemble. Or, si une telle définition peut effectivement s'appliquer à des primates non-humains, elle ne suffit pas à rendre compte du fait culturel humain dans sa profondeur et dans sa portée.   

@@ -1,7 +1,7 @@
 ---
 title: "Georges-Hubert de Radkowski – La culture façonne les comportements humains"
 categories: Radkowski, Mauss
-tags: [Culture, L'existence humaine]
+tags: [Culture, Existence humaine]
 ---
 
 « [Les besoins des êtres humains] sont “culturalisés” : investis par [la société] de fonctions culturelles, passant ainsi du registre de faits “bruts”, qui ne renvoie à rien d’autre qu’à des nécessités naturelles, à celui de “valeurs” ; de faits valorisés culturellement, qui peuvent ainsi s’insérer en tant qu’éléments signifiants dans la structure sociale d’un groupe donné. Cette greffe de la culture sur la nature concerne tout le registre d’animalité couvert par les besoins. L’ingestion des aliments, qui ne relève que de la nature, devient ainsi le “repas”, rite culturel qui “intéresse” la société : si elle ne donne pas à manger – souvent même elle en prive les hommes –, elle décide comment, quand, de quelle manière il faut s’y prendre. L’appareillement sexuel devient le “mariage”, autant qu’un moyen de contracter une “alliance” ; les fonctions excrémentielles deviennent “sales” et “intimes” ; le bien-être du corps devient le “confort” ; l’agression physique la “violence” (avec toutes ses modalités possibles : “combat”, “rixe”, “meurtre”, “massacre”, “vendetta”, etc) ; ’extinction des activités biologiques, le “décès”, le “trépas”, et la dépouille, de charogne qu’elle était, devient le “mort”, le “cher disparu”, voire l’ “ancêtre”.  

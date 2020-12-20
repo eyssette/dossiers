@@ -1,7 +1,7 @@
 ---
 title: "Will Kymlicka – L'appartenance culturelle est constitutive de l'identité"
 categories: [Kymlicka Will]
-tags: [Culture, L'existence humaine, Langage]
+tags: [Culture, Existence humaine, Langage]
 ---
 
 Pourquoi les liens avec la langue et la culture sont-ils si forts pour la plupart des gens ? Les observateurs l'expliquent de différentes façons. Margalit et Raz soutiennent que […] l'appartenance culturelle offre des options chargées de significations, c'est-à-dire que « la familiarité avec une culture détermine les frontières de ce qui est imaginable ». […]  

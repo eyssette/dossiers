@@ -1,7 +1,7 @@
 ---
 title: "Lévi-Strauss – La tendance à l'ethnocentrisme"
 categories: Lévi-Strauss
-tags: [Culture, L'existence humaine]
+tags: [Culture, Existence humaine]
 ---
 
 « [Tout membre d’une culture en est aussi étroitement solidaire [qu’un voyageur] l’est de son train. Car, dès notre naissance, l’entourage fait pénétrer en nous, par mille démarches conscientes et inconscientes, un système complexe de références consistant en jugements de valeur, motivations, centres d’intérêt […]. Nous nous déplaçons réellement avec ce système de références, et les réalités culturelles du dehors ne sont observables qu’à travers les déformations qu’il leur impose, quand il ne va pas jusqu’à nous mettre dans l’impossibilité d’en apercevoir quoi que ce soit. »
