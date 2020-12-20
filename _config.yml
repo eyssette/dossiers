@@ -151,6 +151,11 @@ collections:
     permalink: /:collection/:path/
     title: "Textes sur l'identité personnelle"
     sort_by: title
+  philosophie_de_la_culture:
+    output: true
+    permalink: /:collection/:path/
+    title: "Philosophie de la culture"
+    sort_by: title
 
 main:
   - title: "Collections"
