@@ -119,12 +119,12 @@ collections:
   ethique_environnementale:
     output: true
     permalink: /:collection/:path/
-    title: "Éthique environnementale"
+    title: "Ethique environnementale"
     sort_by: title
   ethique_animale:
     output: true
     permalink: /:collection/:path/
-    title: "Éthique animale"
+    title: "Ethique animale"
     sort_by: title
   grands_defis_environnementaux:
     output: true
