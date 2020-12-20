@@ -149,7 +149,7 @@ collections:
   identite_personnelle:
     output: true
     permalink: /:collection/:path/
-    title: "Textes sur l'identité personnelle"
+    title: "L'identité personnelle"
     sort_by: title
   philosophie_de_la_culture:
     output: true

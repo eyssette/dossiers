@@ -1,5 +1,5 @@
 ---
-title: "Textes sur l'identité personnelle"
+title: "L'identité personnelle"
 permalink: /identite_personnelle/
 collection: identite_personnelle
 ---
