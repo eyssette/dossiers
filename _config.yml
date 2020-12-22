@@ -161,7 +161,11 @@ collections:
     permalink: /:collection/:path/
     title: "L'anarchisme"
     sort_by: title
-
+  le_bonheur_n_est_il_qu_un_ideal:
+    output: true
+    permalink: /:collection/:path/
+    title: "Le bonheur n'est-il qu'un idéal ?"
+    sort_by: title
 
 main:
   - title: "Collections"

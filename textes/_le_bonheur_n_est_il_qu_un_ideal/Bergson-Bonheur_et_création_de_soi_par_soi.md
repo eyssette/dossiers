@@ -1,0 +1,10 @@
+---
+title: "Bergson – Le bonheur se trouve dans la joie de la création de soi par soi"
+categories: Bergson 
+tags: Bonheur
+order: '3b'
+---
+
+« L’effort est pénible, mais il est aussi précieux, plus pré­cieux encore que l’œuvre où il aboutit, parce que, grâce à lui, on a tiré de soi plus qu’il n’y avait, on s’est haussé au-dessus de soi-même. […] [P]lus riche est la création, plus profonde est la joie. La mère qui regarde son enfant est joyeuse, parce qu’elle a conscience de l’avoir créé, phy­siquement et moralement. Le commerçant qui développe ses affaires, le chef d’usine qui voit prospérer son industrie, est-il joyeux en raison de l’argent qu’il gagne et de la notoriété qu’il acquiert ? Richesse et considération entrent évidemment pour beaucoup dans la satisfaction qu’il ressent, mais elles lui apportent des plaisirs plutôt que de la joie, et ce qu’il goûte de joie vraie est le sentiment d’avoir monté une entreprise qui marche, d’avoir appelé quelque chose à la vie. Prenez des joies exceptionnelles, celle de l’artiste qui a réalisé sa pensée, celle du savant qui a découvert ou inventé. Vous entendrez dire que ces hommes travaillent pour la gloire et qu’ils tirent leurs joies les plus vives de l’admiration qu’ils inspirent. Erreur profonde ! On tient à l’éloge et aux honneurs dans l’exacte mesure où l’on n’est pas sûr d’avoir réussi. […]  Si donc, dans tous les domaines, le triomphe de la vie est la création, ne devons-nous pas supposer que la vie humaine a sa raison d’être dans une création qui peut, à la différence de celle de l’artiste et du savant, se poursuivre à tout moment chez tous les hommes : la création de soi par soi, l’agrandissement de la personnalité par un effort qui tire beaucoup de peu, quelque chose de rien, et ajoute sans cesse à ce qu’il y avait de richesse dans le monde ? » 
+
+Bergson, _L’Énergie spirituelle_, « La conscience et la vie »
