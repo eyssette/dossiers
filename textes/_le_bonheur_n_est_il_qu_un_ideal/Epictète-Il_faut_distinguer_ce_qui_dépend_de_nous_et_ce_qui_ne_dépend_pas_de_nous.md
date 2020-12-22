@@ -1,6 +1,6 @@
 ---
 title: "Epictète – Il faut distinguer ce qui dépend de nous et ce qui ne dépend pas de nous"
-categories: Epictète 
+categories: Epictète Stoîcisme
 tags: Bonheur
 order: '2b'
 ---
