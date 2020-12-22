@@ -1,6 +1,6 @@
 ---
 title: "Epicure – Le bonheur se trouve dans le simple plaisir d'exister"
-categories: Epicure
+categories: Epicure Epicurisme
 tags: Bonheur
 order: '2a'
 ---
