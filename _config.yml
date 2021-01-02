@@ -166,6 +166,12 @@ collections:
     permalink: /:collection/:path/
     title: "Le bonheur n'est-il qu'un idéal ?"
     sort_by: title
+  les_differents_sens_de_la_notion_de_liberte:
+    output: true
+    permalink: /:collection/:path/
+    title: "Les différents sens de la notion de liberté"
+    sort_by: title
+
 
 main:
   - title: "Collections"

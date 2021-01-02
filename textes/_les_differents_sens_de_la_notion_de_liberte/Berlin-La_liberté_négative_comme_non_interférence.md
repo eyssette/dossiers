@@ -1,0 +1,12 @@
+---
+title: "Berlin Isaiah – La liberté négative comme non-interférence"
+categories: [Berlin Isaiah]
+tags: Liberté
+order: '1a2'
+---
+
+_Exemple analysé : la pauvreté_
+
+« Je suis libre, dit-on généralement, dans la mesure où personne ne vient gêner mon action. En ce sens, la liberté politique n’est que l’espace à l’intérieur duquel un homme peut agir sans que d’autres l’en empêchent. Si d’autres m’empêchent de faire ce qu’autre­ment j’aurais fait, je ne suis pas entièrement libre ; et si cet espace se trouve réduit en dessous d’un certain minimum, on peut dire que je suis contraint, opprimé et peut-être même asservi. Toutefois, la contrainte ne recouvre pas toutes les formes d'incapacité. Si je suis incapable d'accomplir des sauts de plus de trois mètres, si je ne peux pas lire parce que je suis aveugle ou si je ne peux pas comprendre les passages les plus obscurs de Hegel, il serait incongru de dire que je suis asservi ou contraint de quelque manière. La contrainte implique l'intervention délibérée d'autrui dans l'espace à l'intérieur duquel je pourrais normalement agir. Il n'y a absence de liberté politique que lorsque des individus empêchent d'autres individus d'atteindre une fin. […] Si ma pauvreté était une espèce de maladie qui m'empêcherait d'acheter du pain, de m'offrir un voyage autour du monde ou de plaider ma cause devant un tribunal, au même titre qu'une claudication m'empêche de courir, cette incapacité ne pourrait, bien entendu, être qualifiée de manque de liberté, et certainement pas de manque de liberté politique. C'est seulement parce que je crois que mon incapacité à obtenir telle ou telle chose tient au fait que des hommes se sont arrangés pour que, contrairement à d'autres, je ne dispose pas de l'argent nécessaire pour l'obtenir, que je m'estime victime d'une forme de contrainte ou d'oppression. En d'autres termes, cet emploi du mot liberté se rattache à une théorie sociale et économique bien précise concernant les causes de ma pauvreté ou de mon impuissance. […] Si […] j'ai la conviction que je suis dans le besoin à cause d'un ordre social que j'estime injuste, je peux parler de servitude ou d'oppression économique. […] Il y a oppression dans la mesure où d'autres, directement ou non, délibérément ou non, frustrent mes désirs. Être libre, en ce sens, signifie être libre de toute immixtion extérieure. Plus vaste est cette aire de non-ingérence, plus étendue est ma liberté. »
+
+Isaiah Berlin, _Éloge de la liberté_, p. 171-172
