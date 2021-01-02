@@ -15,4 +15,4 @@ Le texte ci-dessous n'est pas d'Amartya Sen lui-même, mais permet de mieux comp
 – les facteurs de conversion environnementaux, dans notre cas les infrastructures routières ou pistes cyclables à disposition, doivent également être pris en compte. En l’absence de telles infrastructures, le détenteur d’un vélo, même parfaitement capable de l’utiliser et autorisé à le faire, est privé du droit réel à la mobilité.  
 En l’absence de facteurs de conversion adéquats, les ressources ne peuvent se traduire en libertés réelles et les droits demeurent formels. »
 
-Jean-Michel Bonvin and Nicolas Farvaque, « L’accès à l’emploi au prisme des capabilités, enjeux théoriques et méthodologiques », _Formation emploi_, 98 | 2007, 9-22. URL : [https://bit.ly/3n3H4yV](https://bit.ly/3n3H4yV)
+Jean-Michel Bonvin and Nicolas Farvaque, « L’accès à l’emploi au prisme des capabilités, enjeux théoriques et méthodologiques », _Formation emploi_, 98 (2007), 9-22. URL : [https://bit.ly/3n3H4yV](https://bit.ly/3n3H4yV)
