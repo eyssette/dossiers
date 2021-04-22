@@ -171,6 +171,11 @@ collections:
     permalink: /:collection/:path/
     title: "Les différents sens de la notion de liberté"
     sort_by: title
+  le_langage_est_il_un_simple_moyen_de_communication:
+    output: true
+    permalink: /:collection/:path/
+    title: "Le langage est-il un simple moyen de communication ?"
+    sort_by: title
 
 
 main:
