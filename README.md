@@ -1,11 +1,38 @@
-Une sélection de textes classés par thématiques, notions du programme de philosophie, et auteurs.
+# create-svelte
 
-http://eyssette.github.io/dossiers
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-N'hésitez pas à forker ce site pour créer votre propre base de textes.
+## Creating a project
 
-Pour ajouter un dossier de textes, il faut : 
+If you're seeing this, you've probably already done this step. Congrats!
 
-1. Créer un dossier dans le répertoire "textes"
-2. Définir ce dossier comme collection dans le fichier _config.yml, et définir la page correspondante dans _pages
-3. Ajouter des textes au format markdown, avec un titre, des _categories_ pour les auteurs, et des _tags_ pour les notions
+```bash
+# create a new project in the current directory
+npm create svelte@latest
+
+# create a new project in my-app
+npm create svelte@latest my-app
+```
+
+## Developing
+
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
+
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.

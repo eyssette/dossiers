@@ -1,9 +1,0 @@
----
-title: "Matthew B. Crawford– Nous vivons dans une économie qui repose sur des techniques de captation de l'attention"
-categories: [Crawford Matthew B.]
-tags: Technique
----
-
-« Le capitalisme a compris que malgré tout ce que nous disons sur l'économie de l'information, nous vivons en réalité dans une économie de l'attention […] De nos jours, il est difficile d’ouvrir un journal […] sans tomber sur un article déplorant […] l’érosion de notre capacité d’attention et l’atmosphère de distraction généralisée. […] Bien qu’il s’agisse avant tout d’une faculté individuelle, il est clair que le problème de l’attention est aussi désormais un grave problème collectif de la vie moderne […]. Notre environnement technologique en pleine évolution engendre un besoin de stimulation toujours croissant. […] Notre vie mentale est plus décousue, et plus vulnérable aux sollicitations du moments. […] Notre dispersion mentale ne peut pas simplement être attribuée à la publicité, à Internet, … […] il s’agit d’un phénomène plus global qui relève de tout un style de vie. […] Cette hypothèse est particulièrement pertinente à l’ère du _big data_, alors que nous nous sommes assujettis à des techniques de captation de l’attention non seulement envahissantes mais de mieux en mieux ciblées.[…] Si nous ne sommes pas capables de maîtriser l’orientation de notre attention, nous sommes à la merci de ceux qui souhaitent l’orienter en fonction de leurs intérêts […] Insister sur l’importance des facultés de concentration que nous acquérons par la pratique, c’est reconnaître que l’indépendance de la pensée et du sentiment est une chose fragile qui requiert certaines conditions spécifiques. »
-
-Matthew B. Crawford, _Contact_, éd. La Découverte, 2016, p.11-29, traduction légèrement modifiée

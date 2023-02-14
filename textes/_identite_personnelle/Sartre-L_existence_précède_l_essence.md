@@ -1,9 +1,0 @@
----
-title: "Sartre – L'existence précède l'essence"
-categories: Sartre
-tags: [Recherche de soi, Conscience]
----
-
-« Lorsqu'on considère un objet fabriqué, comme par exemple un livre ou un coupe-papier, cet objet a été fabriqué par un artisan qui s'est inspiré d'un concept ; il s'est référé au concept de coupe-papier, et également à une technique de production préalable qui fait partie du concept, et qui est au fond une recette. […] Nous dirons donc que, pour le coupe-papier, l'essence - c'est-à-dire l'ensemble des recettes et des qualités qui permettent de le produire et de le définir - précède l'existence […]. [I]l y a au moins un être chez qui l'existence précède l'essence, un être qui existe avant de pouvoir être défini par aucun concept et […] cet être c'est l'homme […]. Qu'est-ce que signifie ici que l'existence précède l'essence ? Cela signifie que l'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. Ainsi, il n'y a pas de nature humaine, puisqu'il n'y a pas de Dieu pour la concevoir. L'homme est non seulement tel qu'il se conçoit, mais tel qu'il se veut, et comme il se conçoit après l'existence, comme il se veut après cet élan vers l'existence, l'homme n'est rien d'autre que ce qu'il se fait. Tel est le premier principe de l'existentialisme. […] Mais si vraiment l'existence précède l'essence, l'homme est responsable de ce qu'il est. Ainsi, la première démarche de l'existentialisme est de mettre tout homme en possession de ce qu'il est et de faire reposer sur lui la responsabilité totale de son existence.  »
-
-Sartre, _L'existentialisme est un humanisme_

@@ -1,9 +1,0 @@
----
-title: "Durkheim – La discipline rend possible la maîtrise de soi"
-categories: Durkheim
-tags: [Education transmission et émancipation, Liberté, Morale]
----
-
-« La discipline est, par elle-même, un facteur […] de l'éducation […]. Représentez-vous […] un être affranchi de toute limitation extérieure, un despote plus absolu encore que ceux dont nous parle l'histoire, un despote qu'aucune puissance extérieure ne vienne contenir et régler. Par définition, les désirs d'un tel être sont irrésistibles. Dirons-nous donc qu'il est tout-puissant ? Non certes, car lui-même ne peut leur résister. Ils sont maîtres de lui comme du reste des choses. Il les subit, il ne les domine pas. En un mot, quand nos tendances sont affranchies de toute mesure, quand rien ne les borne, elles deviennent elles-mêmes tyranniques, et leur premier esclave, c'est le sujet même qui les éprouve. Aussi, vous savez quel triste spectacle il nous donne. Les penchants les plus contraires, les caprices les plus antinomiques se succèdent les uns aux autres, entraînant ce souverain soi-disant absolu dans les sens les plus divergents, si bien que cette toute-puissance apparente se résout finalement en une véritable impuissance. Un despote est comme un enfant ; il en a les faiblesses, et pour la même raison. C'est qu'il n'est pas maître de lui-même. La maîtrise de soi, voilà la première condition de tout pouvoir vrai, de toute liberté digne de ce nom. […] Mais, dira-t-on, n'est-il pas possible que nous nous contenions de nous-mêmes, par un effort intérieur, sans qu'une pression extérieure vienne perpétuellement s'exercer sur nous ? Assurément, et cette aptitude à se maîtriser soi-même est un des principaux pouvoirs que doive développer l'éducation. »
-
-Durkheim, _L'éducation morale_, Première partie, Troisième leçon : « L'esprit de discipline », 1902
