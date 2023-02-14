@@ -32,8 +32,13 @@
 
 	const innerWidth = window.innerWidth;
 
+
 	let headers;
 	let dataArray = Object.values(dataParsed);
+	
+	dataArray.shift();
+	let dossiers=[...new Set(dataArray.map((element) => element[3]))];
+
 	if (reorganizeData && innerWidth > 800) {
 		dataArray = reorganizeDataFunction(dataArray);
 		headers = newHeader;
@@ -257,6 +262,17 @@
 								: (textToSearch = "")}>Voir toutes les données</button
 					></td>
 			</tr>
+			<tr>
+				<td colspan={headersLength} >
+					<ul>
+						{#each dossiers as dossier}
+							<li>{dossier} <button
+								on:click={() => (textToSearch = "\\t"+dossier+"\\t")}>🔗</button
+							></li>
+						{/each}
+					</ul>
+				</td>
+			</tr>
 		{:else if previoustextToSearch != textToSearch && textToSearch != ""}
 			<tr>
 				<td colspan={scoreDisplay ? headersLength + 1 : headersLength}>
@@ -296,14 +312,14 @@
 				{#each rows as row}
 					<tr>
 						{#each row as cell, i}
-							{#if cell && !cell.includes("undefined")}
-								<td
-									class:small={innerWidth <= 800
-										? smallColumnsIfSmallScreen.includes(i + 1)
-										: smallColumns.includes(i + 1)}>
+							<td
+								class:small={innerWidth <= 800
+									? smallColumnsIfSmallScreen.includes(i + 1)
+									: smallColumns.includes(i + 1)}>
+								{#if cell && !cell.includes("undefined")}
 									{@html cell.replaceAll("_", " ")}
-								</td>
-							{/if}
+								{/if}
+							</td>
 						{/each}
 					</tr>
 				{/each}

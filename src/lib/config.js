@@ -1,9 +1,20 @@
 export const title = "Dossiers de textes";
 
-const baseURL = "https://raw.githubusercontent.com/eyssette/dossiers/master/"
+const baseURL = "https://raw.githubusercontent.com/eyssette/dossiers/dev/data/"
 
 export const src = [
-	baseURL+"textes/output.tsv",
+	baseURL+"anarchisme.tsv",
+	baseURL+"bonheur-ideal.tsv",
+	baseURL+"differents-sens-notion-liberte.tsv",
+	baseURL+"education-rend-libre.tsv",
+	baseURL+"ethique-animale.tsv",
+	baseURL+"ethique-environnementale.tsv",
+	baseURL+"grands-defis-environnementaux.tsv",
+	baseURL+"identite-personnelle.tsv",
+	baseURL+"langage-simple-moyen-communication.tsv",
+	baseURL+"philosophie-contemporaine-technique.tsv",
+	baseURL+"philosophie-de-la-culture.tsv",
+	baseURL+"temps-obstacle-bonheur.tsv"
 ];
 /* export const src = ['https://raw.githubusercontent.com/eyssette/textes-philo/main/data/textes-FINAL.tsv', 'https://raw.githubusercontent.com/eyssette/textes-philo/main/data/textes-new.tsv']; */
 /* https://raw.githubusercontent.com/eyssette/textes-philo/main/data/textes-new.tsv */
@@ -25,16 +36,12 @@ export const textToSearchDefault = "";
 
 /* Pour réorganiser les données (notamment pour faire une version différente sur mobile) 
 0:Texte	1:Auteur·e	2:Référence	3:Dossier	4:Notions	5:Résumé
-
-1:Auteur·e 5:Résumé + 0:Texte + 2:Référence	3:Dossier 4:Notions
-
-
 */
 export const reorganizeData = true;
 export const reorganizeDataIfSmallScreen = true;
 export function reorganizeDataFunction(arrInit) {
 	/* Un exemple qui ne garde que certaines colonnes */
-	return arrInit.map((element) => [element[1], '<p><b>'+element[5]+'</b></p>'+element[0]+'<br>'+element[2], element[3], element[4]]);
+	return arrInit.map((element) => [element[1], '<p><b>'+element[5]+'</b></p>'+element[0]+'<br>'+element[1]+', '+element[2], element[3], element[4]]);
 	/* Un exemple de regroupement */
 	/* return arrInit.map(element => [element[0],  element[2] + '<br/>' + element[1] + (element[3] ? element[3] : '')]);  */
 }
@@ -46,7 +53,7 @@ export function reorganizeDataFunctionIfSmallScreen(arrInit) {
 }
 
 /* Pour changer le titre des colonnes  */
-export const dataNoHeader = true;
+export const dataNoHeader = false;
 export const changeHeader = true;
 export const newHeader = ["Auteur·e", "Texte", "Dossier", "Notions"];
 export const newHeaderIfSmallScreen = ["Texte"];
