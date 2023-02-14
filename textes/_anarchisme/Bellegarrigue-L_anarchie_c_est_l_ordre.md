@@ -31,4 +31,4 @@ Maintenant […] s'il est démontré qu'en dehors de l'amour ou de la haine qu'o
 Or, si supprimer le gouvernement c'est, d'un côté, établir l'ordre, c'est, d'un autre côté, fonder l'anarchie ; donc, l'ordre et l'anarchie sont parallèle.  
 Donc, l'anarchie c'est l'ordre. »
 
-Anselme Bellegarrigue, _L'Anarchie_, journal de l'ordre (n°1), Chapitre 1 : « L'anarchie, c'est l'ordre »
+Anselme Bellegarrigue, _L'Anarchie_, journal de l'ordre (n°1), Chapitre 1 : “L'anarchie, c'est l'ordre”
