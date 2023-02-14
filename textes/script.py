@@ -102,6 +102,7 @@ def transform_to_tsv(directory, tsv_file):
                 text = "« " + text
             if not text.endswith("»"):
                 text = text + " »"
+            text = text.replace("« <br>«","« ")
             if (reference):
                 reference = re.sub(r"\_(.*?)\_",r"<i>\1</i>",reference)
                 reference = re.sub(r"\*(.*?)\*",r"<i>\1</i>",reference)
