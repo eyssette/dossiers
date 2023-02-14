@@ -28,7 +28,6 @@
 
 	$: if (clickDossier) {
 		inputValue = textToSearch;
-		clickDossier=false;
 	}
 
 	function searchDatabase() {
@@ -90,6 +89,8 @@
 		float: right;
 		font-size: 1em;
 		right: 10px;
+		margin-top:-0.5em;
+		font-size:0.9em;
 	}
 
 	.search-explanations {

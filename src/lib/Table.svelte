@@ -38,7 +38,7 @@
 	let dataArray = Object.values(dataParsed);
 	
 	dataArray.shift();
-	let dossiers=[...new Set(dataArray.map((element) => element[3]))];
+	let dossiers=[...new Set(dataArray.map((element) => element[3]).sort((a, b) => a.localeCompare(b)))];
 
 	if (reorganizeData && innerWidth > 800) {
 		dataArray = reorganizeDataFunction(dataArray);
@@ -217,9 +217,8 @@
 	}
 
 	function onClickDossier(d) {
-		console.log(d)
-		textToSearch = "\\t"+d+"\\t"
-		clickDossier=true;
+			textToSearch = "\\t"+d+"\\t"
+			clickDossier=true;
 	}
 </script>
 
@@ -324,7 +323,7 @@
 									? smallColumnsIfSmallScreen.includes(i + 1)
 									: smallColumns.includes(i + 1)}>
 								{#if cell && !cell.includes("undefined")}
-									{@html cell.replaceAll("_", " ")}
+									{@html cell.replaceAll("_", " ").replaceAll(" »", " »").replaceAll(" ?"," ?")}
 								{/if}
 							</td>
 						{/each}
@@ -460,15 +459,16 @@
 		}
 	}
 	.dossiers {
-		max-width: 960px;
+		max-width: 800px;
+		width:80%;
 		margin: auto;
-		width: 80%;
-		font-size:0.9em;
-		margin-top:1.5em;
+		font-size:1.05em;
+		margin-top:40px;
 		padding:0;
+		border:1px solid black;
+		padding:10px 20px;
 	}
 	.dossiers ul {
-		text-align:justify;
 		margin:0;
 		padding:0;
 	}
@@ -485,5 +485,8 @@
 	.dossiers li a {
 		color:#6a0012;
 		cursor: pointer;
+	}
+	.dossiers li a:hover {
+		border-bottom:1px dashed #6a0012;
 	}
 </style>
