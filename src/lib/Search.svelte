@@ -6,6 +6,7 @@
 	} from "./config.js";
 	import { onMount } from "svelte";
 	export let textToSearch = "";
+	export let clickDossier;
 
 	let hash;
 	let inputValue = "";
@@ -24,6 +25,11 @@
 			textToSearch = decodeURI(hash.slice(1));
 		}
 	});
+
+	$: if (clickDossier) {
+		inputValue = textToSearch;
+		clickDossier=false;
+	}
 
 	function searchDatabase() {
 		if (automaticSearch == true && desactivateRegexDefault == true) {
@@ -92,5 +98,10 @@
 		padding-top: 1em;
 		padding-bottom: 1em;
 		text-align: justify;
+	}
+	@media screen and (max-width: 600px) {
+		.search-explanations {
+			font-size:0.8em;
+		}
 	}
 </style>

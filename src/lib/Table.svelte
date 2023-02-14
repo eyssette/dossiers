@@ -25,6 +25,7 @@
 	import AdditionalConditions from "./AdditionalConditions.svelte";
 	export let dataParsed;
 	export let textToSearch;
+	export let clickDossier;
 	let dataTable;
 	let search_items;
 	let sortColumns = false;
@@ -214,6 +215,12 @@
 			rows = dataArray;
 		}
 	}
+
+	function onClickDossier(d) {
+		console.log(d)
+		textToSearch = "\\t"+d+"\\t"
+		clickDossier=true;
+	}
 </script>
 
 {#if useAdditionalConditions == true && desactivateRegexDefault == false}
@@ -221,6 +228,17 @@
 		<AdditionalConditions bind:textToSearch />
 	</div>
 {/if}
+
+<div class="dossiers">
+	<b>Dossiers disponibles :</b>
+	<ul>
+		{#each dossiers as dossier}
+			<li>{dossier} <a
+				on:click={() => onClickDossier(dossier)}>(lien)</a
+			></li>
+		{/each}
+	</ul>
+</div>
 
 <table class:one-column={headersLength === 1} class={tableCSS}>
 	{#if headers}
@@ -261,17 +279,6 @@
 								? (textToSearch = " + ")
 								: (textToSearch = "")}>Voir toutes les données</button
 					></td>
-			</tr>
-			<tr>
-				<td colspan={headersLength} >
-					<ul>
-						{#each dossiers as dossier}
-							<li>{dossier} <button
-								on:click={() => (textToSearch = "\\t"+dossier+"\\t")}>🔗</button
-							></li>
-						{/each}
-					</ul>
-				</td>
 			</tr>
 		{:else if previoustextToSearch != textToSearch && textToSearch != ""}
 			<tr>
@@ -448,5 +455,35 @@
 		table {
 			font-size: 0.9em;
 		}
+		.dossiers {
+			font-size:0.8em!important;
+		}
+	}
+	.dossiers {
+		max-width: 960px;
+		margin: auto;
+		width: 80%;
+		font-size:0.9em;
+		margin-top:1.5em;
+		padding:0;
+	}
+	.dossiers ul {
+		text-align:justify;
+		margin:0;
+		padding:0;
+	}
+	.dossiers li {
+		display:inline-block;
+		list-style-type: none;
+		padding-right:5px;
+		padding-top:7px;
+		/* max-width: 250px; */
+	}
+	.dossiers li:not(:last-child):after  {
+		content:" – "
+	}
+	.dossiers li a {
+		color:#6a0012;
+		cursor: pointer;
 	}
 </style>

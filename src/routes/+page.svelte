@@ -11,6 +11,7 @@
 	let textToSearch = "";
 	let parsedData = [];
 	let promises = [];
+	let clickDossier=false;
 
 	for (const url of src) {
 		promises.push(fetch(url));
@@ -45,9 +46,9 @@
 	<p>Chargement des données. Merci de patienter.</p>
 {:then dataParsed}
 	<div class="search">
-		<Search bind:textToSearch />
+		<Search bind:textToSearch bind:clickDossier/>
 	</div>
-	<Table {dataParsed} bind:textToSearch />
+	<Table {dataParsed} bind:textToSearch  bind:clickDossier />
 	<footer class="contentAfterTable">{@html contentAfterTable}</footer>
 {:catch error}
 	<p style="color: red">{error.message}</p>
