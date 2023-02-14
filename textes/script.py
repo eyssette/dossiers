@@ -23,9 +23,10 @@ def extract_info(file):
                 categories = line.strip().split("categories: ")[1]
             elif line.startswith("tags:"):
                 tags = line.strip().split("tags: ")[1]
-                tags = tags.replace("[","").replace("]","")
-                tagsArray = tags.split(",")
-                tags = " ".join(map(lambda x:x.strip().replace(" ","_"),tagsArray))
+                if "[" in tags:
+                    tags = tags.replace("[","").replace("]","")
+                    tagsArray = tags.split(",")
+                    tags = " ".join(map(lambda x:x.strip().replace(" ","_"),tagsArray))
             elif line.endswith("»") and line.startswith("«"):
                 in_text = False
                 if not (categories in line):
