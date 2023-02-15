@@ -47,7 +47,7 @@ export function reorganizeDataFunction(arrInit) {
 }
 export function reorganizeDataFunctionIfSmallScreen(arrInit) {
 	/* Un exemple qui ne garde que certaines colonnes */
-	return arrInit.map((element) => ['<p>Dossier : '+element[3]+' – Notions : '+element[4]+'<p><b>'+element[1]+' – '+element[5]+'</b></p>'+element[0]+'<br>'+element[2]]);
+	return arrInit.map((element) => ['<p>Dossier :\\t'+element[3]+'\\t– Notions : '+element[4]+'<p><b>'+element[1]+' – '+element[5]+'</b></p>'+element[0]+'<br>'+element[2]]);
 	/* Un exemple de regroupement */
 	/* return arrInit.map(element => [element[0],  element[2] + '<br/>' + element[1] + (element[3] ? element[3] : '')]);  */
 }

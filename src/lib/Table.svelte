@@ -219,6 +219,9 @@
 	function onClickDossier(d) {
 			textToSearch = "\\t"+d+"\\t"
 			clickDossier=true;
+			setTimeout(() => {
+				clickDossier=false;
+			},500)
 	}
 </script>
 
@@ -232,8 +235,8 @@
 	<b>Dossiers disponibles :</b>
 	<ul>
 		{#each dossiers as dossier}
-			<li>{dossier} <a
-				on:click={() => onClickDossier(dossier)}>(lien)</a
+			<li>{dossier} <a href="" data-sveltekit-preload-data="tap"
+				on:click|preventDefault={() => onClickDossier(dossier)}>(lien)</a
 			></li>
 		{/each}
 	</ul>
@@ -323,7 +326,7 @@
 									? smallColumnsIfSmallScreen.includes(i + 1)
 									: smallColumns.includes(i + 1)}>
 								{#if cell && !cell.includes("undefined")}
-									{@html cell.replaceAll("_", " ").replaceAll(" »", " »").replaceAll(" ?"," ?")}
+									{@html cell.replaceAll("_", " ").replaceAll(" »", " »").replaceAll(" ?"," ?").replaceAll("\\t", " ")}
 								{/if}
 							</td>
 						{/each}
