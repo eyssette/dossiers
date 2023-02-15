@@ -1,6 +1,6 @@
 export const title = "Dossiers de textes";
 
-const baseURL = "https://raw.githubusercontent.com/eyssette/dossiers/dev/data/"
+const baseURL = "https://raw.githubusercontent.com/eyssette/dossiers/master/data/"
 
 export const src = [
 	baseURL+"anarchisme.tsv",
