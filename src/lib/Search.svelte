@@ -27,8 +27,9 @@
 	});
 
 	$: if (clickDossier) {
-		inputValue = textToSearch;
-		clickDossier=false;
+		setTimeout(() => {
+			inputValue = textToSearch;
+		},200)
 	}
 
 	function searchDatabase() {
