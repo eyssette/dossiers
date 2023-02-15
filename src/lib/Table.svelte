@@ -464,32 +464,28 @@
 	.dossiers {
 		max-width: 800px;
 		width:80%;
-		margin: auto;
+		margin: 40px auto;
 		font-size:1.05em;
-		margin-top:40px;
 		padding:0;
 		border:1px solid black;
 		padding:10px 20px;
 	}
 	.dossiers ul {
-		margin:0;
+		margin:7px 0;
 		padding:0;
+		columns:2;
 	}
 	.dossiers li {
 		display:inline-block;
 		list-style-type: none;
-		padding-right:5px;
-		padding-top:7px;
+		padding-top:8px;
 		/* max-width: 250px; */
 	}
-	.dossiers li:not(:last-child):after  {
-		content:" – "
+	.dossiers li:before  {
+		content:"– "
 	}
 	.dossiers li a {
 		color:#6a0012;
 		cursor: pointer;
-	}
-	.dossiers li a:hover {
-		border-bottom:1px dashed #6a0012;
 	}
 </style>
