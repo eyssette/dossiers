@@ -46,6 +46,7 @@
 	<p>Chargement des données. Merci de patienter.</p>
 {:then dataParsed}
 	<div class="search">
+		<p>{dataParsed.length} textes dans la base</p>
 		<Search bind:textToSearch bind:clickDossier/>
 	</div>
 	<Table {dataParsed} bind:textToSearch  bind:clickDossier />
